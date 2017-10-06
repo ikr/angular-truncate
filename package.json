@@ -1,7 +1,7 @@
 {
-  "name": "angular-truncate",
+  "name": "@stc-hotels-mys/angular-truncate",
   "description": "Angular Truncate - Ellipsis for your templates",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "http://sparkalow.github.com/angular-truncate",
   "author": "Brian Mathews (sparkalow)",
   "repository": {
